@@ -22,8 +22,10 @@
 }
 
 h2 {
-    padding-left: 10%;
+    text-align: left !important;
+    padding-left: 10% !important;
 }
+
 .ListaHabilidadesMain li{
     color: black;
 }
